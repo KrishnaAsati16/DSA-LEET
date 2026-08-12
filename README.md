@@ -1,1 +1,1 @@
-Leet code Practise Questions
+Leet code Questions
